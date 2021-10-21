@@ -1,6 +1,5 @@
 using System;
 using System.Text;
-
 namespace MoodAnalyserAssignment
 {
     public class UC1_MoodAnalyser
